@@ -3,3 +3,6 @@
 ################################################################################
 
 /Practice/.vs/Practice/v16
+/Practice/Practice/bin/Debug/netcoreapp3.1
+/Practice/Practice/obj
+/Practice/Practice/wwwroot
